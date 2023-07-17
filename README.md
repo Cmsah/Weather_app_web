@@ -34,7 +34,7 @@ To toggle between Celsius and Fahrenheit temperature units, click the "Convert t
 
 
 # Credits
-The weather app was created by [Prashidha Rawal (ht0k)]
+The weather app was created by [Anubhav Agrawal]
 
 - The app uses the [OpenWeatherMap API](https://openweathermap.org) to retrieve weather data.
 - The illustrations used in the app are [3D casual life](https://icons8.com/illustrations/style--3d-casual-life).
