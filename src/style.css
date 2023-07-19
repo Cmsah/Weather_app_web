@@ -9,7 +9,7 @@
 body {
   font-family: "Poppins", sans-serif;
   line-height: normal;
-  background-color: #ffb74d;
+  background-color: #a7a29b;
 	height: 100vh;
 }
 
@@ -21,7 +21,7 @@ body {
 .title {
   font-size: 36px;
   font-weight: 700;
-  margin-top: 50px;
+  margin-top: 25px;
 }
 
 .container {
